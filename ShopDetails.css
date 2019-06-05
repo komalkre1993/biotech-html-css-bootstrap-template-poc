@@ -1,0 +1,83 @@
+/* bgimage */
+
+.bgimage1
+{
+    background-image: url(slider1.jpg);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 300px;
+    width: 100%;
+}
+.bgimage1_content
+{
+    text-align: center;
+    color: white;
+    padding-top: 90px;
+}
+.bgimage1_h2
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
+.bgimage1_h1
+{
+    font-family: 'Lato', cursive;
+    font-size: 80px;
+}
+/* section3 */
+.sec3
+{
+    background-color: #f5f5f5;
+    height: 1400px;
+}
+.section3_div1
+{
+    padding-top: 90px;
+}
+.section3_div2
+{
+    padding-top: 90px;
+}
+.sec3_div2img
+{
+    background-image: url(widget2.jpg);
+    background-size: cover;
+    height: 300px;
+    
+}
+.sec3_slider
+{
+    background-color: white;
+    height: 480px;
+}
+.sec3_icon
+{
+    color: #80B435;
+}
+/* .sec3_heart
+{
+   
+    background-color: #f5f5f5;
+    
+    color: black;
+} */
+.sec3_heart:hover
+{
+    color: #80B435;
+}
+.Menu_div
+{
+    background-color: white;
+    margin-top: 30px;
+   padding-top: 30px;
+   height: 300px;
+   width: 100%;
+}
+.Menu_txt
+{
+    color: black;
+}
+.Menu_txt:hover
+{
+    columns: #80B435;;
+}
